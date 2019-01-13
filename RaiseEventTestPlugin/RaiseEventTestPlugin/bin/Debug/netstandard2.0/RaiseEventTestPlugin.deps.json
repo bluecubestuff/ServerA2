@@ -1,0 +1,196 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.0/",
+    "signature": "cfe1dc2a80602aef150a12815387068463a61a0d"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.0": {},
+    ".NETStandard,Version=v2.0/": {
+      "RaiseEventTestPlugin/1.0.0": {
+        "dependencies": {
+          "NETStandard.Library": "2.0.3",
+          "ExitGamesLibs": "1.0.4.0",
+          "MySql.Data": "8.0.13.0",
+          "Photon.SocketServer": "4.0.28.11245",
+          "PhotonHive": "4.0.28.11221",
+          "PhotonHivePlugin": "1.0.15.11060",
+          "PhotonHostRuntimeInterfaces": "3.58.0.0"
+        },
+        "runtime": {
+          "RaiseEventTestPlugin.dll": {}
+        }
+      },
+      "Microsoft.NETCore.Platforms/1.1.0": {},
+      "NETStandard.Library/2.0.3": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.1.0"
+        }
+      },
+      "ExitGamesLibs/1.0.4.0": {
+        "runtime": {
+          "ExitGamesLibs.dll": {
+            "assemblyVersion": "1.0.4.0",
+            "fileVersion": "1.0.4.0"
+          }
+        }
+      },
+      "MySql.Data/8.0.13.0": {
+        "runtime": {
+          "MySql.Data.dll": {
+            "assemblyVersion": "8.0.13.0",
+            "fileVersion": "8.0.13.0"
+          }
+        }
+      },
+      "Photon.SocketServer/4.0.28.11245": {
+        "runtime": {
+          "Photon.SocketServer.dll": {
+            "assemblyVersion": "4.0.28.11245",
+            "fileVersion": "4.0.28.11245"
+          }
+        }
+      },
+      "PhotonHive/4.0.28.11221": {
+        "runtime": {
+          "PhotonHive.dll": {
+            "assemblyVersion": "4.0.28.11221",
+            "fileVersion": "4.0.28.11221"
+          }
+        }
+      },
+      "PhotonHivePlugin/1.0.15.11060": {
+        "runtime": {
+          "PhotonHivePlugin.dll": {
+            "assemblyVersion": "1.0.15.11060",
+            "fileVersion": "1.0.15.11060"
+          }
+        }
+      },
+      "PhotonHostRuntimeInterfaces/3.58.0.0": {
+        "runtime": {
+          "PhotonHostRuntimeInterfaces.dll": {
+            "assemblyVersion": "3.58.0.0",
+            "fileVersion": "3.58.0.0"
+          }
+        }
+      },
+      "Google.Protobuf/3.5.1.0": {
+        "runtime": {
+          "Google.Protobuf.dll": {
+            "assemblyVersion": "3.5.1.0",
+            "fileVersion": "3.5.1.0"
+          }
+        }
+      },
+      "Photon.Common/4.0.28.11221": {
+        "runtime": {
+          "Photon.Common.dll": {
+            "assemblyVersion": "4.0.28.11221",
+            "fileVersion": "4.0.28.11221"
+          }
+        }
+      },
+      "log4net/1.2.13.0": {
+        "runtime": {
+          "log4net.dll": {
+            "assemblyVersion": "1.2.13.0",
+            "fileVersion": "1.2.13.0"
+          }
+        }
+      },
+      "ExitGames.Logging.Log4Net/1.0.4.0": {
+        "runtime": {
+          "ExitGames.Logging.Log4Net.dll": {
+            "assemblyVersion": "1.0.4.0",
+            "fileVersion": "1.0.4.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/6.0.0.0": {
+        "runtime": {
+          "Newtonsoft.Json.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.2.16931"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RaiseEventTestPlugin/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.NETCore.Platforms/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-bLpT1f/SFlO1CzqXG12KnJzpZs6lv24uX2Rzi4Fmm0noJpNlnWRVryuO3yK18Ca04t/YHcO1e1Z0WDfjseqNzw==",
+      "path": "microsoft.netcore.platforms/1.1.0",
+      "hashPath": "microsoft.netcore.platforms.1.1.0.nupkg.sha512"
+    },
+    "NETStandard.Library/2.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
+      "path": "netstandard.library/2.0.3",
+      "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
+    },
+    "ExitGamesLibs/1.0.4.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MySql.Data/8.0.13.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Photon.SocketServer/4.0.28.11245": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PhotonHive/4.0.28.11221": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PhotonHivePlugin/1.0.15.11060": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PhotonHostRuntimeInterfaces/3.58.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Google.Protobuf/3.5.1.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Photon.Common/4.0.28.11221": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "log4net/1.2.13.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ExitGames.Logging.Log4Net/1.0.4.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newtonsoft.Json/6.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

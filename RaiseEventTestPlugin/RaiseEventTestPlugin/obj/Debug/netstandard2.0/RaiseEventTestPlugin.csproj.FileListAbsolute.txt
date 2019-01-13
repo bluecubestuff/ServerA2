@@ -1,0 +1,133 @@
+C:\Users\161692W\source\repos\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\RaiseEventTestPlugin.deps.json
+C:\Users\161692W\source\repos\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\RaiseEventTestPlugin.dll
+C:\Users\161692W\source\repos\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\RaiseEventTestPlugin.pdb
+C:\Users\161692W\source\repos\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\PhotonHive.dll
+C:\Users\161692W\source\repos\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\PhotonHivePlugin.dll
+C:\Users\161692W\source\repos\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\PhotonHostRuntimeInterfaces.dll
+C:\Users\161692W\source\repos\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\Photon.SocketServer.dll
+C:\Users\161692W\source\repos\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\ExitGamesLibs.dll
+C:\Users\161692W\source\repos\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\Photon.Common.dll
+C:\Users\161692W\source\repos\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\log4net.dll
+C:\Users\161692W\source\repos\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\ExitGames.Logging.Log4Net.dll
+C:\Users\161692W\source\repos\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\Newtonsoft.Json.dll
+C:\Users\161692W\source\repos\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\PhotonHive.pdb
+C:\Users\161692W\source\repos\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\PhotonHive.xml
+C:\Users\161692W\source\repos\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\PhotonHivePlugin.pdb
+C:\Users\161692W\source\repos\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\Photon.SocketServer.pdb
+C:\Users\161692W\source\repos\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\Photon.SocketServer.xml
+C:\Users\161692W\source\repos\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\ExitGamesLibs.pdb
+C:\Users\161692W\source\repos\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\ExitGamesLibs.xml
+C:\Users\161692W\source\repos\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\Photon.Common.pdb
+C:\Users\161692W\source\repos\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\ExitGames.Logging.Log4Net.pdb
+C:\Users\161692W\source\repos\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\ExitGames.Logging.Log4Net.xml
+C:\Users\161692W\source\repos\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\Newtonsoft.Json.xml
+C:\Users\161692W\source\repos\RaiseEventTestPlugin\RaiseEventTestPlugin\obj\Debug\netstandard2.0\RaiseEventTestPlugin.csprojAssemblyReference.cache
+C:\Users\161692W\source\repos\RaiseEventTestPlugin\RaiseEventTestPlugin\obj\Debug\netstandard2.0\RaiseEventTestPlugin.csproj.CoreCompileInputs.cache
+C:\Users\161692W\source\repos\RaiseEventTestPlugin\RaiseEventTestPlugin\obj\Debug\netstandard2.0\RaiseEventTestPlugin.AssemblyInfoInputs.cache
+C:\Users\161692W\source\repos\RaiseEventTestPlugin\RaiseEventTestPlugin\obj\Debug\netstandard2.0\RaiseEventTestPlugin.AssemblyInfo.cs
+C:\Users\161692W\source\repos\RaiseEventTestPlugin\RaiseEventTestPlugin\obj\Debug\netstandard2.0\RaiseEventTestPlugin.csproj.CopyComplete
+C:\Users\161692W\source\repos\RaiseEventTestPlugin\RaiseEventTestPlugin\obj\Debug\netstandard2.0\RaiseEventTestPlugin.dll
+C:\Users\161692W\source\repos\RaiseEventTestPlugin\RaiseEventTestPlugin\obj\Debug\netstandard2.0\RaiseEventTestPlugin.pdb
+C:\Users\161692W\source\repos\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\MySql.Data.dll
+C:\Users\161692W\source\repos\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\Google.Protobuf.dll
+C:\Users\161692W\source\repos\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\MySql.Data.xml
+D:\Repo\ServerAssignment01\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\RaiseEventTestPlugin.deps.json
+D:\Repo\ServerAssignment01\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\RaiseEventTestPlugin.dll
+D:\Repo\ServerAssignment01\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\RaiseEventTestPlugin.pdb
+D:\Repo\ServerAssignment01\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\MySql.Data.dll
+D:\Repo\ServerAssignment01\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\PhotonHive.dll
+D:\Repo\ServerAssignment01\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\PhotonHivePlugin.dll
+D:\Repo\ServerAssignment01\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\PhotonHostRuntimeInterfaces.dll
+D:\Repo\ServerAssignment01\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\Photon.SocketServer.dll
+D:\Repo\ServerAssignment01\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\ExitGamesLibs.dll
+D:\Repo\ServerAssignment01\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\Photon.Common.dll
+D:\Repo\ServerAssignment01\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\log4net.dll
+D:\Repo\ServerAssignment01\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\ExitGames.Logging.Log4Net.dll
+D:\Repo\ServerAssignment01\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\Newtonsoft.Json.dll
+D:\Repo\ServerAssignment01\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\PhotonHive.pdb
+D:\Repo\ServerAssignment01\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\PhotonHive.xml
+D:\Repo\ServerAssignment01\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\PhotonHivePlugin.pdb
+D:\Repo\ServerAssignment01\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\Photon.SocketServer.pdb
+D:\Repo\ServerAssignment01\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\Photon.SocketServer.xml
+D:\Repo\ServerAssignment01\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\ExitGamesLibs.pdb
+D:\Repo\ServerAssignment01\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\ExitGamesLibs.xml
+D:\Repo\ServerAssignment01\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\Photon.Common.pdb
+D:\Repo\ServerAssignment01\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\ExitGames.Logging.Log4Net.pdb
+D:\Repo\ServerAssignment01\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\ExitGames.Logging.Log4Net.xml
+D:\Repo\ServerAssignment01\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\Newtonsoft.Json.xml
+D:\Repo\ServerAssignment01\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\obj\Debug\netstandard2.0\RaiseEventTestPlugin.csprojAssemblyReference.cache
+D:\Repo\ServerAssignment01\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\obj\Debug\netstandard2.0\RaiseEventTestPlugin.csproj.CoreCompileInputs.cache
+D:\Repo\ServerAssignment01\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\obj\Debug\netstandard2.0\RaiseEventTestPlugin.AssemblyInfoInputs.cache
+D:\Repo\ServerAssignment01\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\obj\Debug\netstandard2.0\RaiseEventTestPlugin.AssemblyInfo.cs
+D:\Repo\ServerAssignment01\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\obj\Debug\netstandard2.0\RaiseEventTestPlugin.csproj.CopyComplete
+D:\Repo\ServerAssignment01\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\obj\Debug\netstandard2.0\RaiseEventTestPlugin.dll
+D:\Repo\ServerAssignment01\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\obj\Debug\netstandard2.0\RaiseEventTestPlugin.pdb
+D:\Repo\ServerAssignment01\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\Photon.SocketServer.dll.config
+D:\Poly Stuff\Year03\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\RaiseEventTestPlugin.deps.json
+D:\Poly Stuff\Year03\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\RaiseEventTestPlugin.dll
+D:\Poly Stuff\Year03\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\RaiseEventTestPlugin.pdb
+D:\Poly Stuff\Year03\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\ExitGames.Logging.Log4Net.dll
+D:\Poly Stuff\Year03\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\ExitGamesLibs.dll
+D:\Poly Stuff\Year03\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\MySql.Data.dll
+D:\Poly Stuff\Year03\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\Photon.SocketServer.dll
+D:\Poly Stuff\Year03\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\PhotonHive.dll
+D:\Poly Stuff\Year03\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\PhotonHivePlugin.dll
+D:\Poly Stuff\Year03\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\PhotonHostRuntimeInterfaces.dll
+D:\Poly Stuff\Year03\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\log4net.dll
+D:\Poly Stuff\Year03\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\Google.Protobuf.dll
+D:\Poly Stuff\Year03\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\Photon.Common.dll
+D:\Poly Stuff\Year03\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\Newtonsoft.Json.dll
+D:\Poly Stuff\Year03\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\ExitGames.Logging.Log4Net.pdb
+D:\Poly Stuff\Year03\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\ExitGames.Logging.Log4Net.xml
+D:\Poly Stuff\Year03\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\ExitGamesLibs.pdb
+D:\Poly Stuff\Year03\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\ExitGamesLibs.xml
+D:\Poly Stuff\Year03\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\MySql.Data.xml
+D:\Poly Stuff\Year03\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\Photon.SocketServer.pdb
+D:\Poly Stuff\Year03\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\Photon.SocketServer.xml
+D:\Poly Stuff\Year03\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\Photon.SocketServer.dll.config
+D:\Poly Stuff\Year03\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\PhotonHive.pdb
+D:\Poly Stuff\Year03\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\PhotonHive.xml
+D:\Poly Stuff\Year03\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\PhotonHivePlugin.pdb
+D:\Poly Stuff\Year03\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\Photon.Common.pdb
+D:\Poly Stuff\Year03\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\Newtonsoft.Json.xml
+D:\Poly Stuff\Year03\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\obj\Debug\netstandard2.0\RaiseEventTestPlugin.csprojAssemblyReference.cache
+D:\Poly Stuff\Year03\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\obj\Debug\netstandard2.0\RaiseEventTestPlugin.csproj.CoreCompileInputs.cache
+D:\Poly Stuff\Year03\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\obj\Debug\netstandard2.0\RaiseEventTestPlugin.AssemblyInfoInputs.cache
+D:\Poly Stuff\Year03\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\obj\Debug\netstandard2.0\RaiseEventTestPlugin.AssemblyInfo.cs
+D:\Poly Stuff\Year03\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\obj\Debug\netstandard2.0\RaiseEventTestPlugin.csproj.CopyComplete
+D:\Poly Stuff\Year03\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\obj\Debug\netstandard2.0\RaiseEventTestPlugin.dll
+D:\Poly Stuff\Year03\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\obj\Debug\netstandard2.0\RaiseEventTestPlugin.pdb
+D:\Repo\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\RaiseEventTestPlugin.deps.json
+D:\Repo\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\RaiseEventTestPlugin.dll
+D:\Repo\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\RaiseEventTestPlugin.pdb
+D:\Repo\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\ExitGamesLibs.dll
+D:\Repo\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\MySql.Data.dll
+D:\Repo\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\Photon.SocketServer.dll
+D:\Repo\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\PhotonHive.dll
+D:\Repo\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\PhotonHivePlugin.dll
+D:\Repo\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\PhotonHostRuntimeInterfaces.dll
+D:\Repo\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\Google.Protobuf.dll
+D:\Repo\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\Photon.Common.dll
+D:\Repo\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\log4net.dll
+D:\Repo\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\ExitGames.Logging.Log4Net.dll
+D:\Repo\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\Newtonsoft.Json.dll
+D:\Repo\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\ExitGamesLibs.pdb
+D:\Repo\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\ExitGamesLibs.xml
+D:\Repo\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\MySql.Data.xml
+D:\Repo\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\Photon.SocketServer.pdb
+D:\Repo\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\Photon.SocketServer.xml
+D:\Repo\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\Photon.SocketServer.dll.config
+D:\Repo\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\PhotonHive.pdb
+D:\Repo\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\PhotonHive.xml
+D:\Repo\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\PhotonHivePlugin.pdb
+D:\Repo\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\Photon.Common.pdb
+D:\Repo\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\ExitGames.Logging.Log4Net.pdb
+D:\Repo\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\ExitGames.Logging.Log4Net.xml
+D:\Repo\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\netstandard2.0\Newtonsoft.Json.xml
+D:\Repo\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\obj\Debug\netstandard2.0\RaiseEventTestPlugin.csprojAssemblyReference.cache
+D:\Repo\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\obj\Debug\netstandard2.0\RaiseEventTestPlugin.csproj.CoreCompileInputs.cache
+D:\Repo\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\obj\Debug\netstandard2.0\RaiseEventTestPlugin.AssemblyInfoInputs.cache
+D:\Repo\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\obj\Debug\netstandard2.0\RaiseEventTestPlugin.AssemblyInfo.cs
+D:\Repo\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\obj\Debug\netstandard2.0\RaiseEventTestPlugin.csproj.CopyComplete
+D:\Repo\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\obj\Debug\netstandard2.0\RaiseEventTestPlugin.dll
+D:\Repo\ServerAssignment01\RaiseEventTestPlugin\RaiseEventTestPlugin\obj\Debug\netstandard2.0\RaiseEventTestPlugin.pdb

@@ -1,0 +1,31 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <ApplicationIcon />
+    <OutputType>Library</OutputType>
+    <StartupObject />
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="ExitGamesLibs">
+      <HintPath>..\..\..\..\Programme File\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\lib\ExitGamesLibs.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data">
+      <HintPath>C:\Program Files (x86)\MySQL\Connector NET 8.0\Assemblies\v4.5.2\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="Photon.SocketServer">
+      <HintPath>..\..\..\..\Programme File\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\lib\Photon.SocketServer.dll</HintPath>
+    </Reference>
+    <Reference Include="PhotonHive">
+      <HintPath>..\..\..\..\Programme File\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Loadbalancing\GameServer\bin\PhotonHive.dll</HintPath>
+    </Reference>
+    <Reference Include="PhotonHivePlugin">
+      <HintPath>..\..\..\..\Programme File\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Loadbalancing\GameServer\bin\PhotonHivePlugin.dll</HintPath>
+    </Reference>
+    <Reference Include="PhotonHostRuntimeInterfaces">
+      <HintPath>..\..\..\..\Programme File\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Loadbalancing\GameServer\bin\PhotonHostRuntimeInterfaces.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
