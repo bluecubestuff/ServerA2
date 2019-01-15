@@ -14,7 +14,7 @@ namespace TestPlugin
         {
             var plugin = new RaiseEventTestPlugin();
             if (plugin.SetupInstance(gameHost, config, out errorMsg))
-            {
+            {    
                 return plugin;
             }
             return null;

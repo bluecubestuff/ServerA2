@@ -16,6 +16,8 @@ namespace TestPlugin
         private string recvdMessage;
         private string connStr;
         private MySqlConnection conn;
+        bool isRegistered;
+        //Photon.SocketServer.Protocol.TryRegisterCustomType(typeof(MyCustomType), myCustomTypeCode, MyCustomType.Serialize, MyCustomType.Deserialize);
 
         public string ServerString
         {
@@ -29,10 +31,12 @@ namespace TestPlugin
         }
         public RaiseEventTestPlugin()
         {
+            isRegistered = Photon.SocketServer.Protocol.TryRegisterCustomType(typeof(MyCustomType), 1, MyCustomType.Serialize, MyCustomType.Deserialize);
+
             this.UseStrictMode = true;
             this.ServerString = "ServerMessage";
             this.CallsCount = 0;
-
+            
             // --- Connect to MySQL.
             ConnectToMySQL();
         }
@@ -49,6 +53,13 @@ namespace TestPlugin
             try
             {
                 base.OnRaiseEvent(info);
+
+                //if (isRegistered)
+                //    //Console.WriteLine("~ Register COMPLETED ~");
+                //    PluginHost.LogDebug("~ Register COMPLETED ~");
+                //else
+                //    //Console.WriteLine("~ Register FAILED ~");
+                //    PluginHost.LogDebug("~ Register FAILED ~");
             }
             catch (Exception e)
             {
@@ -325,9 +336,6 @@ namespace TestPlugin
 
             return bLogin;
         }
-
-
-
 
     }
 }
