@@ -77,7 +77,7 @@ namespace TestPlugin
 
                         string playerName = GetStringDataFromMessage("PlayerName");
                         string playerPassword = GetStringDataFromMessage("Password");
-                        string ReturnMessage = "2"; 
+                        string ReturnMessage = "2";
 
                         if (!CheckUserDatabase(playerName, playerPassword)) //first check to see if login fail or there exist not such user
                         {
@@ -273,6 +273,8 @@ namespace TestPlugin
                         end = temp.IndexOf("/");
                     else
                         end = temp.Length;
+
+                    
                     //Console.WriteLine("Start: " + start.ToString() + "\nEnd: " + end.ToString());
                 }
                 else if (key == "Password")
