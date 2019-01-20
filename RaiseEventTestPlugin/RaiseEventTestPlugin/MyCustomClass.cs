@@ -5,20 +5,24 @@ using System.Text;
 
 namespace TestPlugin
 {
-    public class MyCustomType
+    public class GeneralData
     {
-        public int Id { get; set; }
-        public string Name { get; set; }
+        public string Pos { get; set; }
+        public string ItemName { get; set; }
+        public string PlayerName { get; set; }
+        public string FriendName { get; set; }
 
         public static byte[] Serialize(object customType)
         {
-            var c = (MyCustomType)customType;
+            var c = (GeneralData)customType;
             using (MemoryStream m = new MemoryStream())
             {
                 using (BinaryWriter writer = new BinaryWriter(m))
                 {
-                    writer.Write(c.Id);
-                    writer.Write(c.Name);
+                    writer.Write(c.Pos);
+                    writer.Write(c.ItemName);
+                    writer.Write(c.PlayerName);
+                    writer.Write(c.FriendName);
                 }
                 return m.ToArray();
             }
@@ -26,32 +30,52 @@ namespace TestPlugin
 
         public static object Deserialize(byte[] data)
         {
-            var result = new MyCustomType();
+            var result = new GeneralData();
             using (MemoryStream m = new MemoryStream(data))
             {
                 using (BinaryReader reader = new BinaryReader(m))
                 {
-                    result.Id = reader.ReadInt32();
-                    result.Name = reader.ReadString();
+                    result.Pos = reader.ReadString();
+                    result.ItemName = reader.ReadString();
+                    result.PlayerName = reader.ReadString();
+                    result.FriendName = reader.ReadString();
                 }
             }
             return result;
         }
-
-        //public byte Id { get; set; }
-
-        //public static object Deserialize(byte[] data)
-        //{
-        //    var result = new MyCustomType();
-        //    result.Id = data[0];
-        //    return result;
-        //}
-
-        //// For a SerializeMethod, we need a byte-array as result.
-        //public static byte[] Serialize(object customType)
-        //{
-        //    var c = (MyCustomType)customType;
-        //    return new byte[] { c.Id };
-        //}
     }
+
+    //public class MyCustomType
+    //{
+    //    public int Id { get; set; }
+    //    public string Name { get; set; }
+
+    //    public static byte[] Serialize(object customType)
+    //    {
+    //        var c = (MyCustomType)customType;
+    //        using (MemoryStream m = new MemoryStream())
+    //        {
+    //            using (BinaryWriter writer = new BinaryWriter(m))
+    //            {
+    //                writer.Write(c.Id);
+    //                writer.Write(c.Name);
+    //            }
+    //            return m.ToArray();
+    //        }
+    //    }
+
+    //    public static object Deserialize(byte[] data)
+    //    {
+    //        var result = new MyCustomType();
+    //        using (MemoryStream m = new MemoryStream(data))
+    //        {
+    //            using (BinaryReader reader = new BinaryReader(m))
+    //            {
+    //                result.Id = reader.ReadInt32();
+    //                result.Name = reader.ReadString();
+    //            }
+    //        }
+    //        return result;
+    //    }
+    //}
 }

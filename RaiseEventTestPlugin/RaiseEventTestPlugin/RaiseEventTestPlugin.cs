@@ -19,6 +19,19 @@ namespace TestPlugin
         bool isRegistered;
         //Photon.SocketServer.Protocol.TryRegisterCustomType(typeof(MyCustomType), myCustomTypeCode, MyCustomType.Serialize, MyCustomType.Deserialize);
 
+        public override bool SetupInstance(IPluginHost host, Dictionary<string, string>config, out string errorMsg)
+        {
+            isRegistered = host.TryRegisterType(typeof(GeneralData), 1, GeneralData.Serialize, GeneralData.Deserialize);
+
+            //if (isRegistered)
+            //    PluginHost.LogDebug("~ Register COMPLETED ~");
+            //else
+  
+            //    PluginHost.LogDebug("~ Register FAILED ~");
+
+            return base.SetupInstance(host, config, out errorMsg);
+        }
+
         public string ServerString
         {
             get;
@@ -31,7 +44,7 @@ namespace TestPlugin
         }
         public RaiseEventTestPlugin()
         {
-            isRegistered = Photon.SocketServer.Protocol.TryRegisterCustomType(typeof(MyCustomType), 1, MyCustomType.Serialize, MyCustomType.Deserialize);
+            //isRegistered = Photon.SocketServer.Protocol.TryRegisterCustomType(typeof(MyCustomType), 1, MyCustomType.Serialize, MyCustomType.Deserialize);
 
             this.UseStrictMode = true;
             this.ServerString = "ServerMessage";
@@ -53,13 +66,6 @@ namespace TestPlugin
             try
             {
                 base.OnRaiseEvent(info);
-
-                //if (isRegistered)
-                //    //Console.WriteLine("~ Register COMPLETED ~");
-                //    PluginHost.LogDebug("~ Register COMPLETED ~");
-                //else
-                //    //Console.WriteLine("~ Register FAILED ~");
-                //    PluginHost.LogDebug("~ Register FAILED ~");
             }
             catch (Exception e)
             {
@@ -106,13 +112,20 @@ namespace TestPlugin
 
                 case 2:
                     {
-                        recvdMessage = Encoding.Default.GetString((byte[])info.Request.Data);
+                        //recvdMessage = Encoding.Default.GetString((byte[])info.Request.Data);
 
-                        string playerName = GetStringDataFromMessage("PlayerName");           
-                        string json = GetStringDataFromMessage("Json");
+                        //string playerName = GetStringDataFromMessage("PlayerName");           
+                        //string json = GetStringDataFromMessage("Json");
+                        //PluginHost.LogDebug(json);
+                        //string itemName = GetStringDataFromMessage("ItemName");
+                        //string pos = GetStringDataFromMessage("Pos");
+                   
+                        GeneralData gData = (GeneralData)GeneralData.Deserialize((byte[])info.Request.Data);
+                        string playerName = gData.PlayerName;
+                        string json = gData.FriendName;
                         PluginHost.LogDebug(json);
-                        string itemName = GetStringDataFromMessage("ItemName");
-                        string pos = GetStringDataFromMessage("Pos");
+                        string itemName = gData.ItemName;
+                        string pos = gData.Pos;
 
                         if (CheckForUser(playerName)) // check if user exist in db, if exist take data
                         {
@@ -169,23 +182,31 @@ namespace TestPlugin
                                 item = rdr["item"].ToString();
                             }
 
-                            PluginHost.LogDebug(json);
+                            PluginHost.LogDebug(pos);
                             rdr.Close();
                         }
 
-                        json = json.Trim('{','}');
-                        pos = pos.Trim('{', '}');
+                        //json = json.Trim('{','}');
+                        //pos = pos.Trim('{', '}');
 
-                        if (item == null || item.Length <= 0)
-                            item = "";
+                        //if (item == null || item.Length <= 0)
+                        //    item = "";
 
-                        item = "\"" + item + "\"";
+                        //item = "\"" + item + "\"";
 
-                        string itemPrefix = @"""item"":";
-                        string jsonData = "{" + json + "," + pos + "," + itemPrefix + item + "}";
+                        //string itemPrefix = @"""item"":";
+                        //string jsonData = "{" + json + "," + pos + "," + itemPrefix + item + "}";
+
+                        GeneralData gData = new GeneralData();
+                        gData.PlayerName = playerName;
+                        gData.FriendName = json;
+                        gData.ItemName = item;
+                        gData.Pos = pos;
 
                         this.PluginHost.BroadcastEvent(target: ReciverGroup.All, senderActor: 0, targetGroup: 0, data: new Dictionary<byte, object>() { {
-                        (byte)245, jsonData } }, evCode: info.Request.EvCode, cacheOp: 0);
+                        (byte)245, GeneralData.Serialize(gData) } }, evCode: info.Request.EvCode, cacheOp: 0);
+                        //this.PluginHost.BroadcastEvent(target: ReciverGroup.All, senderActor: 0, targetGroup: 0, data: new Dictionary<byte, object>() { {
+                        //(byte)245, jsonData } }, evCode: info.Request.EvCode, cacheOp: 0);
                     }
                     break;
             }
